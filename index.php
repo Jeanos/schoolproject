@@ -1,3 +1,3 @@
-<?p
+<?php
 include ("index.html");
 ?>
