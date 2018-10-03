@@ -1,0 +1,3 @@
+<?p
+include ("index.html");
+?>
